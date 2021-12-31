@@ -2,7 +2,7 @@ const TWITTER_HANDLE = 'karnei';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 
-const CONTRACT_ADDRESS = '0x84a43F700E0f48731a94C85d19Eb911de9103711';
+const CONTRACT_ADDRESS = '0x58b35288A95651118E1578A31660A9bE826fa233';
 
 const transformCharacterData = (characterData)=>{
     return {
